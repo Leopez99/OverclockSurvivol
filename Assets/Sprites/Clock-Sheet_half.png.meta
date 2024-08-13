@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: 78113417fb48e7f43893bf1b256eeeb8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clock-Sheet_half_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10530
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a750fc5c1d7bf8045b3096b8f7abbfd3
+      internalID: -181630859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_1
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 10530
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9fd492eb5298c4f873d1f0c3eb649b
+      internalID: 98051183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_2
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 10530
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b7bc15a1a24654da212dd7c0044a79
+      internalID: 1023714721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_3
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 10530
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a551a9b02c759c4b945cb3a7feeb15e
+      internalID: -1001558333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_4
+      rect:
+        serializedVersion: 2
+        x: 8444
+        y: 10530
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f4762dd3ac40b41a5494ae9d83028b
+      internalID: 1024439914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_5
+      rect:
+        serializedVersion: 2
+        x: 10555
+        y: 10530
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8388534f603f05c4d9aec65164903738
+      internalID: 1574865881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8424
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d800c9dffcc32ed48b284a5a01569d10
+      internalID: 363477902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_7
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 8424
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934068e0b8f620448b1246d6f2703e97
+      internalID: -515303943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_8
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 8424
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb06de8db1f79e9489196b76894bb2a6
+      internalID: -1128086524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_9
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 8424
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c4458d0d6b75b44bf0074f0013293f
+      internalID: 1403790381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_10
+      rect:
+        serializedVersion: 2
+        x: 8444
+        y: 8424
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a252bf119d0f884aa0353bfb16e2618
+      internalID: 1846005365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_11
+      rect:
+        serializedVersion: 2
+        x: 10555
+        y: 8424
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6a86d2d4c395247b6304edbdccfcd1
+      internalID: -1891044747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6318
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2762c292cda2d8f4588195b629188913
+      internalID: 628766669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_13
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 6318
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea479ee03569f64f942e3773e3ed8dc
+      internalID: -1503515104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_14
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 6318
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d803e5020deb519418b7231f950e6902
+      internalID: 528657293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_15
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 6318
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7066f14f123873e4b969159cd57ad03c
+      internalID: 1681056968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_16
+      rect:
+        serializedVersion: 2
+        x: 8444
+        y: 6318
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14243ed992b26c24aa11dc6c4a4a9b47
+      internalID: -1055767678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_17
+      rect:
+        serializedVersion: 2
+        x: 10555
+        y: 6318
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbde5d2f80d4d2c458b9c51d1bef1001
+      internalID: -1409683197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4212
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8977d50304db46942adeeb7eda668691
+      internalID: -664275617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_19
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 4212
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c349e14af66f1349b843c1c92e7c631
+      internalID: -1918419479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_20
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 4212
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd0602b902af624f8b14acf2079edfe
+      internalID: 1618986557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_21
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 4212
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de08b1f647361b4c905243285abb004
+      internalID: 1354497639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_22
+      rect:
+        serializedVersion: 2
+        x: 8444
+        y: 4212
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0883662d9cfd643a3888766d6fb37f
+      internalID: 1677814600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_23
+      rect:
+        serializedVersion: 2
+        x: 10555
+        y: 4212
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de78927f5a834af4697853b8a71d4064
+      internalID: 1920544216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2106
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f17d0d9c53a31419a673f8b6e9eb27
+      internalID: 768787088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_25
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 2106
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0277b8cd62ffdc046ad8a3d02b434cef
+      internalID: 1772623098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_26
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 2106
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcc249ebba19e6408823fbe9f4972f2
+      internalID: -785010546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_27
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 2106
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcc28c594241f94cac9cb5c40a797db
+      internalID: -2135031916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_28
+      rect:
+        serializedVersion: 2
+        x: 8444
+        y: 2106
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c20a8cb10c337f45bb4d1b5a86b7b81
+      internalID: 219211538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_29
+      rect:
+        serializedVersion: 2
+        x: 10555
+        y: 2106
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006ada67969c70a48b9da98c9c499e73
+      internalID: 285313472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e75cfb4f8d00b74a97044e1ef371ea3
+      internalID: -44325389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_31
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 0
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b2eaf710f5b1468a0c336a8c719b4
+      internalID: 2068764018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_32
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 0
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7493aa59569bc54f900339bee55de4e
+      internalID: 949224024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_33
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 0
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd2f594240c66047bc9167b3796a75d
+      internalID: -88437428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_34
+      rect:
+        serializedVersion: 2
+        x: 8444
+        y: 0
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c2237d565d5cd4798ee5818cda971f
+      internalID: 638012291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock-Sheet_half_35
+      rect:
+        serializedVersion: 2
+        x: 10555
+        y: 0
+        width: 2111
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681a8dbe3f83ff247bf2556341aae0b3
+      internalID: 791480898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Clock-Sheet_half_18: -664275617
+      Clock-Sheet_half_23: 1920544216
+      Clock-Sheet_half_6: 363477902
+      Clock-Sheet_half_0: -181630859
+      Clock-Sheet_half_16: -1055767678
+      Clock-Sheet_half_13: -1503515104
+      Clock-Sheet_half_8: -1128086524
+      Clock-Sheet_half_4: 1024439914
+      Clock-Sheet_half_9: 1403790381
+      Clock-Sheet_half_14: 528657293
+      Clock-Sheet_half_28: 219211538
+      Clock-Sheet_half_5: 1574865881
+      Clock-Sheet_half_22: 1677814600
+      Clock-Sheet_half_31: 2068764018
+      Clock-Sheet_half_30: -44325389
+      Clock-Sheet_half_12: 628766669
+      Clock-Sheet_half_33: -88437428
+      Clock-Sheet_half_32: 949224024
+      Clock-Sheet_half_1: 98051183
+      Clock-Sheet_half_11: -1891044747
+      Clock-Sheet_half_15: 1681056968
+      Clock-Sheet_half_10: 1846005365
+      Clock-Sheet_half_20: 1618986557
+      Clock-Sheet_half_3: -1001558333
+      Clock-Sheet_half_7: -515303943
+      Clock-Sheet_half_19: -1918419479
+      Clock-Sheet_half_21: 1354497639
+      Clock-Sheet_half_24: 768787088
+      Clock-Sheet_half_34: 638012291
+      Clock-Sheet_half_25: 1772623098
+      Clock-Sheet_half_26: -785010546
+      Clock-Sheet_half_27: -2135031916
+      Clock-Sheet_half_2: 1023714721
+      Clock-Sheet_half_17: -1409683197
+      Clock-Sheet_half_35: 791480898
+      Clock-Sheet_half_29: 285313472
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
